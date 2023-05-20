@@ -1,1 +1,4 @@
 example
+
+чтоб обратно игнорировать файл нужно написать код
+git rm --cached example.txt
